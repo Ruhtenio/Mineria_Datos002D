@@ -1,0 +1,626 @@
+reaction_nombre,reaction_0,reaction_1,reaction_2,reaction_3,reaction_4,reaction_5,reaction_6,reaction_7,reaction_8,reaction_9
+abdominal discomfort,0,0,1,1,1,0,1,0,1,0
+abdominal operation,1,0,0,0,1,1,0,1,0,1
+abdominal pain,0,0,0,0,0,0,0,0,0,1
+abdominal pain upper,0,1,0,0,0,1,1,0,0,1
+abnormal sensation in eye,0,0,1,0,1,1,0,0,0,0
+abortion spontaneous,0,1,0,0,0,0,0,0,1,0
+accidental exposure to product,0,0,0,1,1,0,1,0,1,1
+accidental overdose,0,1,0,0,1,0,0,1,0,1
+acinetobacter infection,0,1,0,1,1,1,0,1,1,1
+acne cystic,0,1,1,1,0,0,0,0,1,0
+acute generalised exanthematous pustulosis,0,0,1,1,1,0,0,0,0,1
+acute hepatic failure,0,1,0,0,0,0,0,0,0,1
+acute kidney injury,0,1,1,1,1,0,0,0,0,1
+acute myeloid leukaemia,0,1,1,0,1,0,0,0,1,0
+acute myocardial infarction,0,1,0,0,1,0,1,1,1,0
+acute respiratory distress syndrome,0,1,0,0,1,0,0,0,0,0
+adenovirus infection,0,1,1,1,0,1,1,0,1,0
+adrenal insufficiency,0,1,0,1,1,1,1,0,1,0
+adrenocortical insufficiency acute,0,1,0,0,0,0,1,0,1,0
+adverse drug reaction,0,0,0,1,0,0,1,1,0,0
+adverse event,0,0,0,1,0,1,0,1,0,1
+ageusia,1,0,0,1,0,1,0,0,0,1
+agranulocytosis,0,1,0,1,1,1,1,0,1,1
+alanine aminotransferase increased,0,1,0,1,1,1,1,1,0,0
+alcohol withdrawal syndrome,0,0,1,0,0,0,1,0,0,0
+allergy to animal,0,1,0,1,0,0,0,1,0,0
+alopecia,0,0,0,1,0,1,0,1,0,0
+altered state of consciousness,1,0,0,0,0,1,1,1,1,1
+anal abscess,0,1,1,0,1,0,0,0,0,0
+anaphylactic reaction,0,0,1,1,0,0,1,0,1,1
+anaphylactic shock,0,1,0,0,1,1,0,0,1,0
+angina pectoris,0,0,1,1,0,1,0,1,0,0
+angioedema,0,0,1,1,0,0,0,1,1,0
+ankle operation,1,0,0,1,1,0,0,1,0,1
+ankylosing spondylitis,0,1,1,0,0,1,1,1,1,0
+antithyroid arthritis syndrome,0,1,1,1,1,1,1,0,0,0
+anxiety,0,0,1,1,0,1,1,1,0,0
+aphonia,1,0,0,1,1,0,0,0,1,1
+aplastic anaemia,0,0,1,0,0,0,1,1,0,1
+application site papules,0,0,1,1,1,0,1,1,1,0
+arrhythmia,0,0,1,0,0,1,0,0,0,1
+arteriosclerosis coronary artery,0,0,1,0,0,1,1,0,1,0
+arthralgia,0,0,0,0,1,0,1,1,1,1
+arthritis,0,1,0,0,0,0,0,1,1,1
+arthropathy,0,0,1,0,1,1,0,0,1,0
+ascites,0,0,1,1,1,1,1,1,0,0
+aspartate aminotransferase increased,0,0,0,1,0,0,1,0,1,1
+aspergillus infection,0,0,1,1,1,0,1,1,0,1
+asphyxia,0,0,0,0,1,1,1,0,0,0
+aspiration,1,0,0,0,1,1,0,0,1,0
+asthenia,0,0,0,0,1,0,1,1,1,0
+asthma,0,0,0,0,0,0,1,1,1,0
+atrial fibrillation,0,0,0,1,1,0,0,1,0,0
+autism spectrum disorder,0,1,1,0,0,0,1,0,1,0
+autoimmune colitis,1,0,0,0,1,1,1,1,1,1
+autonomic neuropathy,0,1,1,0,0,0,1,1,1,1
+b-cell type acute leukaemia,0,1,1,0,1,0,1,1,0,0
+back pain,0,0,1,1,0,1,1,1,0,1
+balance disorder,0,0,0,1,1,1,0,0,1,0
+basal cell carcinoma,0,1,1,1,0,1,1,0,0,0
+bipolar disorder,0,1,1,0,1,1,1,1,0,0
+bladder cancer recurrent,0,1,1,0,1,1,1,1,1,1
+bladder mass,0,1,0,0,1,1,0,1,1,1
+bladder operation,1,0,0,0,1,0,1,0,1,1
+blast crisis in myelogenous leukaemia,1,0,0,0,0,1,0,1,1,0
+blepharospasm,0,1,1,0,0,1,1,1,1,1
+blindness,0,0,1,1,0,1,1,0,0,0
+blindness unilateral,0,0,0,0,1,0,0,0,0,1
+blister,0,0,0,1,1,1,0,0,1,1
+blood calcium abnormal,1,0,0,0,1,1,0,1,0,0
+blood corticotrophin decreased,0,1,1,0,1,0,1,1,0,1
+blood creatine phosphokinase increased,0,1,1,0,1,1,1,1,1,0
+blood glucose abnormal,0,0,1,0,1,0,0,0,0,0
+blood glucose decreased,0,0,1,1,1,1,1,1,1,0
+blood glucose increased,0,1,1,1,0,0,1,0,1,0
+blood immunoglobulin e abnormal,1,0,0,1,0,1,1,0,0,0
+blood iron decreased,0,0,1,0,0,1,1,1,1,0
+blood magnesium decreased,1,0,0,0,1,0,1,1,0,1
+blood phosphorus decreased,1,0,0,0,0,1,1,0,0,1
+blood potassium decreased,0,0,0,0,0,0,1,1,0,0
+blood pressure increased,0,0,0,0,0,1,0,1,0,1
+blood pressure systolic increased,0,0,1,0,0,1,0,1,1,1
+blood prolactin increased,0,1,1,0,1,0,0,1,0,1
+bone marrow failure,0,0,1,1,1,1,0,0,1,1
+bone pain,1,0,0,1,0,0,0,1,1,0
+brash syndrome,0,0,1,0,0,1,0,1,1,0
+breast cancer,1,0,0,1,1,0,1,1,1,1
+breast conserving surgery,0,1,0,1,1,0,1,1,0,0
+breast cyst,0,0,1,0,0,1,1,0,0,0
+bronchiectasis,0,1,1,1,0,1,0,1,0,1
+bronchitis,0,1,0,1,1,0,0,1,0,1
+burkholderia pseudomallei infection,0,1,0,0,0,1,0,1,1,0
+burning sensation,0,0,0,0,1,0,1,0,1,0
+caesarean section,0,0,0,1,1,0,0,0,0,1
+candida infection,0,1,1,1,0,0,0,0,1,1
+carcinoembryonic antigen increased,1,0,0,0,0,1,0,0,0,0
+cardiac disorder,0,1,1,0,1,0,0,0,0,1
+cardiac failure,0,1,1,1,1,1,1,1,0,0
+cardiac failure congestive,0,1,1,0,0,0,1,1,0,1
+cardiac septal defect,1,0,0,1,0,0,1,1,0,1
+cardio-respiratory arrest,0,1,1,1,0,1,0,0,1,1
+cardiogenic shock,0,0,1,1,0,0,0,0,1,1
+cardiotoxicity,0,1,1,1,0,0,1,0,0,1
+carotid artery stenosis,1,0,0,1,0,1,0,1,0,0
+carpal tunnel syndrome,0,0,0,0,0,1,1,0,0,0
+cataract,0,0,0,0,0,1,0,0,1,1
+catheter site cellulitis,0,0,1,1,0,0,1,1,1,1
+catheter site haemorrhage,1,0,0,0,0,0,0,1,0,1
+cerebellar ischaemia,0,0,0,0,1,0,0,0,0,0
+cerebellar syndrome,0,1,1,0,1,1,1,0,0,1
+cerebral infarction,0,1,1,1,1,0,0,0,1,0
+cerebrovascular accident,0,1,1,0,0,0,0,1,0,1
+chemical cystitis,0,0,1,0,1,1,1,0,1,0
+chest discomfort,0,0,0,1,0,0,0,0,0,0
+chest pain,0,0,0,0,0,1,1,1,0,0
+choking,0,1,1,1,1,0,1,0,1,0
+cholecystectomy,0,1,0,1,0,0,1,1,1,0
+cholelithiasis,1,0,0,1,1,1,0,0,0,1
+cholestasis,0,0,0,0,0,1,1,1,1,0
+chondropathy,0,1,1,1,1,1,1,0,1,0
+chronic lymphocytic leukaemia,0,0,0,1,0,0,1,1,0,1
+chronic obstructive pulmonary disease,0,1,1,0,1,0,1,0,0,1
+chronic sinusitis,1,0,0,0,1,0,0,0,0,0
+circumstance or information capable of leading to device use error,0,1,1,1,1,0,1,1,1,0
+circumstance or information capable of leading to medication error,0,1,0,1,1,0,1,0,1,1
+clostridium difficile colitis,0,0,1,0,0,1,0,0,1,1
+coagulation factor deficiency,0,1,0,0,1,1,1,1,1,0
+colitis,0,1,0,1,0,1,1,0,1,0
+colitis ulcerative,0,0,0,0,0,0,1,0,0,0
+coma,0,0,0,1,1,1,0,1,0,1
+completed suicide,0,1,1,0,0,1,1,0,1,1
+compression fracture,0,0,0,0,1,1,1,1,1,1
+condition aggravated,0,0,0,0,0,1,0,1,1,0
+confusional state,0,0,1,0,1,1,0,1,1,1
+conjunctival oedema,0,1,0,1,0,1,1,1,1,1
+conjunctivitis,0,0,0,0,1,1,1,0,0,1
+contraindicated product administered,1,0,0,0,0,0,1,0,1,0
+contusion,0,0,0,0,1,0,1,0,0,0
+corneal scar,1,0,0,1,1,0,0,1,1,1
+coronary arterial stent insertion,1,0,0,1,0,0,1,1,0,0
+cough,0,0,0,0,1,1,0,1,0,0
+covid-19,0,0,1,1,0,1,1,0,1,1
+covid-19 pneumonia,0,1,1,1,0,1,1,1,1,1
+crohn^s disease,0,1,0,0,0,1,0,0,1,0
+cystitis,1,0,0,0,0,1,1,0,1,0
+cystoid macular oedema,1,0,0,0,0,1,1,1,1,0
+cytomegalovirus colitis,0,1,1,0,1,0,1,0,0,0
+cytopenia,1,0,0,0,0,1,0,0,0,1
+deafness,0,1,1,0,1,1,0,0,1,0
+death,0,0,0,1,0,1,1,0,0,1
+decreased appetite,1,0,0,1,0,0,0,0,0,1
+decreased immune responsiveness,0,1,1,1,0,1,1,0,0,1
+deep vein thrombosis,0,0,0,1,1,0,0,0,0,0
+dehydration,0,1,1,0,0,0,1,0,1,1
+delirium,1,0,0,1,0,1,1,1,1,0
+dental operation,0,1,1,1,1,1,0,1,1,1
+depressed level of consciousness,1,0,0,1,0,0,1,0,0,1
+depressed mood,0,1,1,0,1,0,1,0,1,1
+depression,0,1,1,0,0,1,0,0,1,1
+depression suicidal,1,0,0,1,1,0,1,0,0,0
+dermatitis,0,1,0,1,0,0,0,0,1,1
+dermatitis atopic,0,0,0,0,0,0,1,0,1,1
+dermatitis bullous,1,0,0,0,0,0,0,0,0,0
+dermatitis exfoliative generalised,0,1,0,1,0,1,0,1,1,1
+device adhesion issue,0,0,0,1,1,1,1,1,1,0
+device difficult to use,1,0,0,1,0,0,0,1,0,1
+device failure,0,0,1,1,1,1,0,0,1,0
+device issue,0,1,1,1,0,0,1,1,1,0
+device maintenance issue,0,0,0,0,0,1,1,0,0,1
+device malfunction,0,1,1,0,0,0,0,1,1,1
+device use error,1,0,0,0,1,0,1,1,0,0
+diabetes mellitus,0,1,1,1,0,1,0,1,1,0
+diarrhoea,0,0,0,1,0,0,0,1,0,1
+diffuse large b-cell lymphoma,0,1,1,1,1,0,1,1,0,1
+discomfort,0,0,1,1,0,0,1,0,0,0
+disease progression,0,1,1,1,1,0,1,1,0,0
+disorder of sex development,0,0,0,1,0,0,0,1,1,0
+disseminated tuberculosis,1,0,0,1,1,0,1,0,1,0
+diverticulitis,1,0,0,0,0,1,0,1,0,0
+dizziness,0,0,1,0,0,1,1,0,1,1
+dizziness postural,1,0,0,0,1,1,1,0,0,0
+drug abuse,0,1,1,1,0,0,0,0,0,0
+drug dependence,0,0,1,0,1,1,1,1,0,1
+drug diversion,0,0,0,1,1,0,0,0,1,0
+drug effect less than expected,0,0,0,1,0,0,1,0,0,1
+drug hypersensitivity,0,0,1,1,1,0,0,0,1,1
+drug ineffective,0,0,0,0,0,0,0,1,0,0
+drug ineffective for unapproved indication,0,1,0,0,1,0,0,0,0,1
+drug interaction,0,0,0,0,0,0,0,1,0,1
+drug intolerance,0,0,0,0,0,1,0,0,1,0
+drug monitoring procedure incorrectly performed,1,0,0,1,0,0,1,0,0,0
+drug resistance,0,0,1,0,1,0,0,1,1,0
+drug use disorder,0,0,1,1,0,0,0,1,0,1
+drug withdrawal syndrome,0,0,1,0,0,1,1,1,0,1
+drug-induced liver injury,0,1,1,1,0,0,1,0,0,0
+dry eye,0,0,1,0,0,0,0,1,1,1
+dry skin,0,0,1,1,0,0,1,0,1,0
+duodenal polyp,1,0,0,0,1,0,0,0,1,1
+dysbiosis,1,0,0,0,0,1,0,0,1,0
+dysgeusia,1,0,0,0,0,1,0,0,1,1
+dysphagia,0,1,1,0,0,0,0,0,0,1
+dyspnoea,0,0,0,1,0,1,1,0,1,0
+ear discomfort,0,1,1,0,0,0,0,1,1,0
+ear infection,0,1,1,0,1,0,1,1,1,0
+eating disorder,0,1,0,0,1,1,0,1,0,0
+eczema,0,1,0,1,0,1,0,0,0,0
+electrolyte imbalance,0,1,1,1,1,1,0,1,0,1
+embolism,1,0,0,1,1,0,0,0,0,0
+emphysematous cystitis,0,1,1,1,1,1,1,1,1,1
+encephalitis,1,0,0,1,1,0,1,0,0,1
+encephalopathy,0,1,0,1,1,1,1,0,0,1
+endocarditis,0,1,1,1,1,1,1,1,0,1
+enterobiasis,0,1,1,1,0,1,0,0,0,1
+enterocolitis,0,1,0,0,1,1,1,1,0,0
+eosinophilia,0,1,1,1,0,0,1,1,0,0
+eosinophilic oesophagitis,1,0,0,0,0,0,0,1,1,1
+epilepsy,0,1,0,1,0,1,0,1,1,0
+epstein-barr virus infection,0,0,1,0,0,0,0,0,1,1
+erectile dysfunction,1,0,0,1,0,1,1,1,0,1
+erythema,0,1,0,0,1,0,1,0,0,0
+expired product administered,0,1,0,0,1,0,1,1,0,1
+exposure during pregnancy,0,0,0,0,0,0,0,0,1,1
+extra dose administered,0,1,1,1,0,1,0,1,0,0
+extrapyramidal disorder,1,0,0,0,0,1,1,0,0,0
+eye irritation,0,1,0,1,0,0,1,1,0,1
+eye swelling,0,0,1,1,0,0,0,0,0,0
+eyelid margin crusting,0,0,1,1,1,1,1,1,1,1
+face oedema,0,1,1,1,0,1,1,0,1,1
+faecal vomiting,0,1,1,0,1,1,0,0,0,1
+faecaloma,0,1,0,1,0,1,0,0,1,1
+faeces discoloured,0,0,1,1,1,0,1,0,1,1
+fall,0,0,0,1,1,1,1,0,1,1
+fatigue,0,0,0,1,1,1,1,1,0,0
+fear of injection,1,0,0,0,0,0,0,1,1,0
+febrile neutropenia,0,1,0,0,0,0,1,1,0,0
+feeling abnormal,0,0,1,0,1,1,0,1,1,0
+femur fracture,0,1,0,0,0,0,1,1,1,1
+fluid intake reduced,1,0,0,0,1,0,1,0,1,0
+flushing,1,0,0,1,1,0,0,0,1,0
+food allergy,0,1,0,1,1,1,1,1,0,1
+foreign body in throat,0,1,1,0,1,1,1,1,0,1
+foreign body sensation in eyes,1,0,0,0,0,0,1,1,1,1
+full blood count abnormal,0,1,1,0,0,1,0,0,0,0
+fungal infection,0,1,1,1,1,0,0,1,0,0
+gait disturbance,0,1,0,1,0,1,1,1,1,0
+galactorrhoea,0,1,1,1,0,1,0,0,1,0
+gallbladder operation,1,0,0,0,1,1,1,0,1,1
+gangrene,0,1,1,0,1,1,0,0,1,1
+gastric haemorrhage,0,1,0,1,0,1,0,0,1,0
+gastric hypomotility,0,1,0,1,0,1,0,1,0,1
+gastritis,0,1,0,1,1,0,0,0,0,1
+gastroenteritis salmonella,1,0,0,1,1,0,0,0,0,1
+gastrointestinal disorder,0,1,0,1,0,0,1,0,0,1
+gastrointestinal haemorrhage,0,1,1,1,0,1,1,1,1,0
+general physical health deterioration,0,0,0,0,1,0,0,0,1,0
+generalised tonic-clonic seizure,0,1,1,0,0,1,0,1,0,1
+glaucoma,0,1,0,0,0,1,0,0,0,0
+glomerulonephritis,1,0,0,0,0,0,1,0,0,1
+glossodynia,0,1,0,0,1,1,0,0,1,1
+glycosylated haemoglobin increased,0,0,0,0,1,1,0,0,1,1
+graft versus host disease,0,1,0,0,0,1,1,0,1,0
+granuloma skin,0,1,0,1,0,1,0,1,0,0
+haematemesis,1,0,0,0,1,0,0,0,1,0
+haematochezia,0,1,0,0,0,0,1,1,0,1
+haematoma,1,0,0,1,0,1,1,1,1,1
+haemoglobin decreased,1,0,0,1,1,0,1,1,0,1
+haemoglobin increased,0,1,1,0,0,1,1,0,0,1
+haemolytic uraemic syndrome,0,1,0,0,1,0,0,1,0,0
+haemoptysis,0,1,0,0,0,1,0,1,0,0
+haemorrhage,0,1,0,0,1,1,1,1,0,1
+haemorrhage subcutaneous,0,1,0,0,1,0,1,0,1,1
+hallucination,0,0,0,0,1,0,0,0,1,1
+"hallucination, visual",0,1,0,1,1,0,1,0,1,0
+headache,0,1,0,1,1,0,0,0,1,1
+heart rate decreased,0,1,0,0,0,1,0,1,1,1
+heart rate increased,1,0,0,1,0,1,0,0,0,0
+hemiparesis,1,0,0,1,1,1,0,0,0,0
+hepatic cancer metastatic,0,0,0,1,1,1,1,0,1,0
+hepatic cirrhosis,0,1,0,1,1,1,0,1,0,0
+hepatic cytolysis,0,1,0,1,1,1,1,1,1,1
+hepatic function abnormal,0,1,1,1,0,0,1,1,1,1
+hepatitis,0,0,0,0,1,1,0,1,1,0
+hepatitis acute,0,0,1,1,1,0,0,0,0,0
+hepatobiliary cancer,0,0,0,0,0,1,1,0,1,1
+hepatotoxicity,0,0,0,0,1,1,1,1,0,0
+hiatus hernia,0,0,1,1,1,0,0,1,0,1
+hidradenitis,0,1,0,1,1,1,0,0,1,1
+high risk sexual behaviour,0,1,1,1,1,1,0,0,1,1
+hip arthroplasty,0,0,0,1,0,1,0,0,1,0
+hip fracture,0,0,0,0,1,0,1,0,1,1
+histoplasmosis disseminated,0,0,1,1,1,1,0,1,1,1
+hospice care,0,1,1,0,0,0,0,0,1,0
+hospitalisation,0,0,1,0,1,0,0,0,0,1
+hunger,0,1,0,0,1,1,1,1,1,1
+hyperglycaemia,0,1,0,0,0,0,1,0,0,1
+hyperkalaemia,0,0,1,1,0,1,0,0,1,1
+hyperkeratosis,0,0,1,0,1,0,1,1,0,0
+hyperpyrexia,0,1,1,1,1,0,0,1,1,1
+hypersensitivity,0,0,1,0,1,0,0,0,1,0
+hypersomnia,1,0,0,1,1,0,1,0,1,1
+hypertension,0,1,0,1,0,0,0,0,0,1
+hyperventilation,0,0,0,0,1,1,0,0,0,0
+hypoacusis,0,1,0,1,0,1,1,0,0,1
+hypoaesthesia,0,0,1,0,1,1,0,1,0,1
+hypogammaglobulinaemia,0,1,1,0,1,1,0,1,1,1
+hypotension,0,0,0,1,0,0,1,0,1,0
+hypothyroidism,0,1,1,1,1,1,1,1,1,0
+idiopathic urticaria,0,0,0,1,0,0,1,1,1,1
+ileectomy,0,1,0,1,0,0,1,0,1,1
+illness,0,0,0,0,0,1,1,0,1,0
+immune-mediated encephalitis,0,1,0,0,0,0,1,0,1,1
+immune-mediated enterocolitis,0,1,1,0,1,0,0,1,1,0
+immune-mediated myocarditis,0,1,1,0,0,1,1,0,0,0
+immune-mediated myositis,1,0,0,0,1,1,1,1,0,0
+immunodeficiency,1,0,0,0,1,1,1,1,1,0
+immunosuppression,0,0,1,1,1,1,0,0,0,1
+impaired gastric emptying,0,0,0,1,0,1,1,0,1,1
+inappropriate antidiuretic hormone secretion,0,1,1,0,0,1,1,1,0,1
+inappropriate schedule of product administration,0,1,0,0,0,0,1,0,0,0
+incontinence,1,0,0,1,0,0,1,0,1,1
+incorrect dose administered,0,0,1,0,1,1,0,1,0,0
+incorrect product administration duration,0,0,0,0,0,0,0,1,1,1
+infection,0,1,0,0,0,1,1,0,1,1
+inflammation,0,1,1,0,1,1,0,1,0,0
+influenza,0,1,0,0,1,1,1,0,0,0
+influenza like illness,0,0,0,1,1,0,0,1,1,1
+infusion related hypersensitivity reaction,0,0,0,0,1,0,0,1,1,0
+infusion related reaction,0,0,1,1,0,1,1,1,1,1
+infusion site extravasation,1,0,0,0,1,0,0,0,0,1
+infusion site infection,0,0,1,1,0,0,0,0,0,1
+injection site bruising,0,1,1,0,0,0,0,1,0,0
+injection site erythema,1,0,0,0,1,0,1,0,0,1
+injection site exfoliation,1,0,0,1,1,0,1,1,1,0
+injection site haemorrhage,0,1,1,1,0,1,1,1,0,0
+injection site irritation,0,1,0,0,1,0,0,0,1,0
+injection site mass,0,0,1,0,1,1,1,0,1,1
+injection site pain,0,0,0,1,0,0,0,0,1,1
+injection site papule,0,0,1,1,0,0,0,0,1,0
+injection site pruritus,0,1,0,0,0,1,1,0,0,0
+injection site scar,1,0,0,0,1,1,1,0,1,0
+injection site swelling,1,0,0,0,1,1,1,1,0,1
+injury associated with device,0,0,0,1,0,0,1,0,0,0
+insomnia,0,0,1,1,1,0,1,0,0,0
+intentional dose omission,0,0,0,1,0,1,0,1,1,1
+intentional overdose,0,0,0,1,1,1,0,0,0,1
+intentional product use issue,0,1,0,1,0,0,1,1,0,0
+interstitial lung disease,0,0,0,1,0,1,1,1,1,1
+intestinal obstruction,0,0,1,1,0,1,0,1,1,0
+intestinal stenosis,0,0,1,1,1,1,0,1,0,0
+irritable bowel syndrome,1,0,0,0,1,1,0,1,1,0
+joint swelling,0,0,1,0,1,1,1,1,1,0
+keratitis,0,0,1,0,0,1,1,1,0,0
+knee arthroplasty,0,0,1,1,1,1,0,0,0,0
+knee operation,0,1,0,1,0,0,1,1,1,1
+labelled drug-drug interaction medication error,0,1,0,0,0,0,0,0,0,0
+lactic acidosis,0,1,0,0,1,0,1,1,1,1
+large granular lymphocytosis,1,0,0,1,0,0,1,0,1,0
+large intestinal stenosis,0,1,0,0,1,0,1,1,0,0
+laryngeal oedema,0,1,1,1,1,1,0,1,0,0
+laryngospasm,0,1,1,1,0,1,0,1,1,1
+leukaemia,0,0,1,0,1,0,1,0,1,1
+leukocytosis,0,1,1,1,1,1,0,1,1,0
+leukopenia,0,1,0,1,0,0,0,0,1,0
+leukoplakia oral,0,1,0,1,0,1,1,1,0,0
+linear iga disease,1,0,0,0,0,1,1,1,0,0
+liver function test increased,1,0,0,1,1,0,1,1,0,0
+loose tooth,0,1,0,0,1,0,1,0,0,1
+loss of consciousness,0,0,0,0,0,0,1,1,0,1
+loss of personal independence in daily activities,1,0,0,0,1,0,0,1,0,1
+loss of therapeutic response,0,1,1,0,0,1,0,1,1,1
+lower limb fracture,0,1,0,1,0,0,0,1,1,1
+lower respiratory tract infection,0,0,0,1,0,1,1,1,0,1
+lumbar vertebral fracture,0,1,1,0,0,0,1,0,0,1
+lung disorder,1,0,0,0,0,0,1,1,1,0
+lung neoplasm malignant,0,1,1,0,0,0,0,0,1,1
+lung transplant rejection,0,0,1,0,0,1,0,1,0,1
+lymphadenopathy,1,0,0,0,0,0,1,0,1,1
+malignant neoplasm progression,0,1,0,1,0,1,1,0,1,1
+mastectomy,0,1,1,1,0,0,0,1,1,0
+maternal exposure during breast feeding,1,0,0,0,0,1,1,1,0,1
+maternal exposure during pregnancy,0,0,1,1,0,0,0,1,0,0
+medical procedure,0,1,1,1,1,0,1,0,0,0
+meningioma,1,0,0,1,0,1,1,0,1,0
+meningitis aseptic,0,0,0,1,1,1,0,1,1,0
+meningitis listeria,0,1,1,0,1,1,0,1,0,1
+mental impairment,1,0,0,0,1,1,0,0,0,0
+mental status changes,0,1,0,1,1,1,0,0,0,0
+migraine,0,0,0,1,0,1,0,0,0,0
+mobility decreased,0,0,1,0,1,0,0,1,0,0
+mouth ulceration,0,0,0,0,1,0,1,1,0,1
+movement disorder,0,1,0,1,0,0,0,0,0,0
+mucosal haemorrhage,0,0,1,1,0,1,1,1,1,0
+mucosal inflammation,0,1,1,1,1,1,1,0,0,1
+multiple acyl-coenzyme a dehydrogenase deficiency,0,1,1,1,0,0,0,1,0,1
+multiple organ dysfunction syndrome,0,1,0,1,1,1,0,1,1,0
+multiple sclerosis,0,0,0,0,1,1,0,1,1,1
+muscle spasms,0,0,1,0,1,1,1,1,1,1
+muscle twitching,0,0,0,1,0,0,0,0,0,1
+muscular weakness,0,1,0,1,0,0,1,0,0,0
+musculoskeletal discomfort,0,0,1,1,0,1,0,0,1,0
+myalgia,0,1,1,0,0,0,0,0,0,0
+mycobacterium avium complex infection,1,0,0,0,0,0,1,0,0,0
+myelosuppression,0,0,0,0,1,0,0,1,0,0
+myocardial ischaemia,0,1,1,1,1,0,0,0,0,0
+myocarditis,0,1,0,1,1,0,1,1,0,1
+myopericarditis,0,1,0,0,0,0,0,1,0,0
+nasal congestion,0,0,0,1,1,1,0,1,1,1
+nasal polyps,0,1,0,0,1,0,0,1,1,1
+nasopharyngitis,0,0,0,1,0,0,1,1,1,0
+nausea,0,0,0,0,1,1,0,0,1,0
+necrotising oesophagitis,0,1,0,0,0,0,1,1,1,0
+needle issue,0,0,0,0,0,0,1,1,1,1
+neoplasm malignant,0,1,0,1,1,0,1,1,1,1
+neoplasm progression,0,1,0,1,0,1,0,0,0,1
+neoplasm skin,0,1,0,0,0,1,1,1,0,0
+nephrolithiasis,0,1,0,0,0,1,1,1,0,1
+neuralgia,0,1,1,1,1,1,0,0,0,1
+neurodermatitis,0,0,1,1,0,0,1,1,0,0
+neuropathy peripheral,0,0,0,0,1,0,0,1,1,1
+neurotoxicity,0,1,0,0,1,0,0,1,1,0
+neutropenia,0,1,1,1,0,1,0,0,0,0
+night sweats,0,0,1,0,1,0,1,1,1,1
+no adverse event,0,1,1,1,1,1,1,0,1,1
+obstruction,0,1,0,1,1,0,1,0,0,1
+ocular surface disease,1,0,0,0,1,0,0,1,1,1
+off label use,0,0,0,0,0,1,1,1,1,1
+omphalitis,0,0,1,1,1,0,1,1,0,0
+optic ischaemic neuropathy,0,0,1,0,0,1,1,0,0,1
+oral herpes,0,0,0,1,1,0,1,1,1,0
+oropharyngeal discomfort,0,0,0,0,1,1,1,0,1,0
+oropharyngeal pain,0,0,0,1,0,1,0,1,1,0
+orthostatic hypotension,1,0,0,0,1,0,1,0,0,0
+osteoarthritis,0,0,0,1,0,1,1,1,0,0
+osteonecrosis,0,1,0,1,1,0,0,1,1,1
+osteoporosis,0,0,0,0,0,0,0,1,1,0
+otitis externa,1,0,0,0,0,1,1,0,1,1
+overdose,0,0,1,1,1,0,0,0,1,0
+pain,0,0,0,1,0,0,0,1,0,0
+pain in extremity,0,1,0,0,1,1,0,1,0,1
+pain in jaw,0,1,0,0,0,1,1,1,1,1
+palmar-plantar erythrodysaesthesia syndrome,0,1,0,1,1,0,1,0,0,0
+palpitations,0,0,1,0,1,0,0,1,1,1
+pancreatectomy,0,0,1,0,0,0,0,1,1,0
+pancreatic carcinoma,0,0,0,0,1,0,1,0,0,1
+pancreatitis,1,0,0,1,0,0,0,0,1,0
+pancytopenia,0,0,0,0,1,1,1,1,1,0
+paraesthesia,0,1,1,0,1,0,1,1,1,1
+parvovirus b19 infection,0,1,1,0,1,1,1,0,1,0
+patient-device incompatibility,1,0,0,1,0,0,0,1,0,0
+pericardial effusion,0,0,0,1,1,0,0,1,0,1
+pericarditis,0,1,1,0,0,0,1,1,1,0
+peripheral swelling,0,0,0,0,0,1,0,0,0,0
+petechiae,0,0,1,0,1,1,1,1,0,0
+pigmentary maculopathy,0,0,1,1,1,1,1,0,1,1
+plasma cell myeloma,0,0,1,0,0,1,0,0,1,0
+platelet count decreased,0,1,1,1,1,0,0,1,0,1
+platelet count increased,0,1,0,0,0,1,0,0,0,1
+platelet dysfunction,0,1,0,0,1,0,0,0,1,1
+pleurisy,0,0,0,1,1,0,1,1,1,1
+pneumonia,0,0,1,0,0,0,0,0,1,0
+pneumonia aspiration,0,0,0,0,1,1,0,0,0,1
+pneumonia bacterial,1,0,0,1,0,0,1,1,1,1
+pneumonia fungal,0,1,1,0,0,1,1,1,0,0
+pneumonitis,1,0,0,1,0,1,0,1,1,0
+pneumothorax,0,1,0,1,1,1,0,0,0,1
+poisoning deliberate,1,0,0,0,0,0,0,0,1,1
+pollakiuria,0,0,0,0,1,1,0,1,0,1
+poor quality product administered,0,0,1,0,1,0,1,0,1,0
+post-traumatic stress disorder,1,0,0,0,0,0,0,0,0,1
+potentiating drug interaction,1,0,0,1,0,1,0,1,0,1
+pregnancy with contraceptive device,0,0,1,1,1,0,1,0,0,1
+priapism,0,0,1,1,1,0,0,1,0,0
+product adhesion issue,0,0,1,1,0,1,0,1,0,1
+product administration error,0,0,1,1,1,1,1,1,0,1
+product closure issue,0,0,0,1,1,1,1,0,0,1
+product complaint,0,1,0,1,0,1,1,0,0,0
+product dose omission in error,0,0,1,0,0,0,0,0,0,0
+product dose omission issue,0,0,1,0,1,0,1,1,0,1
+product ineffective,0,1,0,1,1,0,1,1,1,0
+product leakage,0,1,0,1,1,1,0,0,1,0
+product odour abnormal,0,1,0,1,1,0,0,0,0,0
+product reconstitution quality issue,0,1,1,0,0,0,1,0,0,0
+product solubility abnormal,0,1,0,1,0,0,1,0,1,0
+product storage error,0,0,1,1,1,1,1,0,0,0
+product temperature excursion issue,0,0,1,1,0,1,1,0,0,1
+product use in unapproved indication,0,0,1,1,0,1,1,0,1,0
+product use issue,1,0,0,0,0,0,1,1,0,1
+productive cough,0,1,0,0,0,0,0,1,0,1
+prostate cancer metastatic,0,0,0,1,1,1,1,1,0,1
+prostatomegaly,0,1,1,1,0,0,0,1,0,0
+pruritus,0,0,1,0,1,0,0,0,1,1
+psoriasis,0,0,0,1,1,1,1,0,0,0
+pulmonary embolism,0,0,1,0,1,1,1,0,0,1
+pulmonary fibrosis,1,0,0,0,1,0,0,1,0,0
+pulmonary hypertension,1,0,0,1,1,0,0,1,0,0
+pulmonary malformation,0,0,1,0,1,1,0,0,0,1
+pulmonary tuberculosis,0,0,1,0,0,0,1,1,1,1
+pyrexia,0,0,0,1,0,0,0,1,1,1
+rash,0,0,1,0,0,0,1,0,1,1
+rash erythematous,0,1,0,1,0,1,1,1,0,1
+rash macular,0,0,0,0,0,1,0,0,0,1
+rash maculo-papular,0,0,0,0,1,1,1,1,0,1
+rash morbilliform,1,0,0,1,0,1,0,0,1,0
+rash pruritic,0,0,1,1,1,1,1,0,0,1
+rectal cancer,0,0,1,1,1,0,1,1,1,1
+rectal haemorrhage,1,0,0,0,1,1,0,0,1,1
+rectal ulcer haemorrhage,0,1,1,1,1,0,0,1,1,0
+renal cancer stage iv,0,0,0,1,1,0,1,1,0,1
+renal failure,0,0,0,1,0,1,0,0,0,1
+renal function test abnormal,0,1,1,1,0,1,1,1,0,1
+renal impairment,0,0,1,0,0,0,1,0,0,1
+reproductive complication associated with device,0,1,1,0,1,0,0,1,1,1
+respiration abnormal,0,1,0,1,1,0,0,0,1,0
+respiratory depression,0,1,1,1,1,0,1,1,1,1
+respiratory disorder,0,1,1,0,0,0,1,1,0,0
+respiratory distress,0,0,1,0,0,0,1,1,1,0
+respiratory failure,0,0,1,0,1,0,0,1,0,1
+respiratory tract infection,0,1,1,1,1,1,0,0,1,0
+restlessness,1,0,0,0,0,0,1,1,0,0
+retinal haemorrhage,1,0,0,0,1,0,1,1,1,1
+rhabdomyolysis,0,1,0,0,1,0,1,0,1,0
+rheumatoid arthritis,0,1,0,0,0,1,0,0,1,1
+rhinorrhoea,1,0,0,1,0,1,1,0,0,1
+rib fracture,1,0,0,0,0,0,0,1,0,0
+road traffic accident,1,0,0,0,0,1,0,1,1,1
+rotator cuff repair,0,1,1,1,1,0,0,0,1,1
+rotator cuff syndrome,1,0,0,0,1,1,0,1,1,1
+salpingitis,0,1,0,1,0,0,0,1,0,1
+sars-cov-2 test positive,0,1,1,0,1,1,0,0,0,0
+sciatica,0,1,1,0,0,1,0,1,0,0
+scleroderma,0,1,0,1,1,1,1,1,1,0
+scrotal oedema,1,0,0,0,1,0,0,1,1,0
+sedation,0,0,0,1,0,0,0,0,1,0
+seizure,0,0,0,1,1,0,0,1,1,0
+sensitive skin,0,0,0,0,1,1,1,0,1,1
+sepsis,0,1,0,1,1,1,1,0,0,0
+septic cardiomyopathy,0,1,0,0,1,1,1,0,0,1
+septic shock,0,0,1,1,0,0,1,0,0,1
+serotonin syndrome,1,0,0,1,0,0,0,0,0,0
+sinus disorder,0,0,1,0,1,0,1,0,0,1
+sinusitis,0,0,1,1,0,1,0,0,0,0
+skin cancer,0,0,1,1,0,0,1,1,1,0
+skin disorder,0,1,1,0,0,1,0,0,0,1
+skin irritation,1,0,0,0,1,1,1,0,0,1
+skin laceration,0,0,0,1,1,0,1,0,0,0
+skin neoplasm excision,0,1,0,0,1,1,1,0,1,1
+sleep disorder due to a general medical condition,0,0,0,1,1,1,1,1,1,1
+small intestinal ulcer haemorrhage,0,1,1,1,1,1,0,0,0,0
+speech disorder,0,0,1,0,1,1,0,0,1,1
+spinal fracture,0,0,1,0,0,0,1,0,1,0
+spinal stenosis,0,1,1,0,1,1,0,1,1,0
+squamous cell carcinoma of skin,0,0,0,0,0,1,0,1,1,1
+staphylococcal bacteraemia,0,0,1,0,0,1,1,1,1,1
+staphylococcal infection,0,1,1,0,1,0,0,0,1,1
+stevens-johnson syndrome,0,1,0,0,1,1,0,0,0,1
+streptococcal infection,0,1,1,0,1,0,1,0,1,0
+stress,1,0,0,1,0,1,0,1,1,1
+subacute cutaneous lupus erythematosus,0,0,1,0,0,0,1,1,0,0
+sudden death,0,1,1,1,0,0,0,1,1,1
+suicidal ideation,0,1,0,0,1,1,0,1,1,0
+suicide attempt,0,0,1,0,1,1,1,0,0,0
+surgery,0,0,1,1,1,1,1,0,1,0
+susac^s syndrome,0,0,1,1,0,0,0,1,1,1
+suspected covid-19,1,0,0,0,0,1,0,1,0,1
+suspected drug-induced liver injury,0,0,1,0,0,0,0,0,0,1
+swelling of eyelid,0,0,0,0,0,0,1,0,1,0
+swollen tongue,1,0,0,1,0,1,0,0,1,1
+symptom recurrence,0,0,1,0,0,1,0,1,0,0
+tardive dyskinesia,0,0,1,1,1,0,0,1,1,1
+taste disorder,1,0,0,1,0,0,0,1,1,1
+tearfulness,0,0,1,1,0,0,1,1,0,1
+tendonitis,1,0,0,1,0,0,1,1,1,0
+therapeutic product effect delayed,1,0,0,0,1,1,0,0,0,1
+therapeutic product effect incomplete,0,0,0,1,0,1,0,0,1,1
+therapeutic product effect variable,0,0,0,1,1,1,0,1,0,0
+therapeutic response unexpected,0,1,1,1,1,0,1,0,0,1
+therapy interrupted,0,0,0,0,1,0,1,1,0,0
+therapy non-responder,0,0,1,1,1,1,0,1,0,1
+therapy partial responder,0,0,0,1,1,0,1,1,0,0
+thermal burn,0,1,0,0,0,1,0,1,0,1
+throat cancer,0,1,0,0,1,1,1,0,1,0
+thrombocytopenia,0,0,0,0,1,0,0,1,0,1
+thyroid cancer,0,0,1,0,1,0,1,1,1,0
+thyroid disorder,1,0,0,0,0,0,0,0,1,0
+toe operation,1,0,0,1,0,0,0,0,1,1
+tooth fracture,0,1,1,0,1,1,1,0,0,0
+tooth loss,0,1,1,0,0,1,1,0,1,0
+toxicity to various agents,0,0,0,0,0,0,0,0,1,0
+transplant rejection,0,1,1,0,0,1,0,0,1,0
+treatment failure,0,0,0,1,1,0,0,0,1,1
+tremor,0,1,1,0,1,1,1,0,1,1
+tremor neonatal,0,0,1,0,1,0,1,0,0,0
+trigeminal neuralgia,1,0,0,1,0,1,1,0,1,1
+tumour lysis syndrome,0,1,0,1,1,1,0,1,0,1
+type 2 diabetes mellitus,0,0,0,1,1,1,0,0,0,0
+type ii hypersensitivity,0,1,0,1,0,0,0,1,1,0
+underdose,0,0,1,1,0,1,0,0,0,1
+unevaluable event,0,1,1,0,0,1,0,1,1,0
+unintentional medical device removal,1,0,0,1,0,1,1,1,0,0
+upper gastrointestinal haemorrhage,0,0,0,1,0,1,1,0,0,0
+upper respiratory tract infection,0,0,1,1,1,0,0,1,1,0
+urinary bladder rupture,0,1,0,0,0,1,1,1,1,0
+urinary retention,0,0,0,1,1,0,1,0,0,1
+urticaria,0,0,0,1,1,0,1,0,1,0
+uveitis,1,0,0,1,1,0,0,1,1,0
+vascular device infection,0,1,0,0,0,0,0,0,1,1
+vascular stent thrombosis,0,0,0,0,0,0,1,0,0,1
+vein rupture,0,1,1,1,0,0,0,0,0,1
+ventricular hypertrophy,0,0,0,0,0,1,0,1,0,0
+vertigo,0,0,1,0,0,0,0,1,0,1
+vision blurred,0,0,1,1,0,1,0,1,1,1
+visual impairment,0,1,0,0,0,0,0,1,1,0
+vitreous floaters,0,0,1,0,0,0,0,1,0,0
+vomiting,0,1,1,0,1,0,0,1,0,0
+weight decreased,0,1,0,0,1,1,0,0,0,0
+weight increased,0,0,0,0,0,1,1,1,0,1
+west nile viral infection,0,1,1,1,1,0,1,0,1,1
+wheezing,0,1,1,1,0,0,1,0,1,1
+white blood cell count decreased,0,1,0,1,1,0,0,1,0,0
+white blood cell count increased,0,0,1,1,1,1,0,1,1,0
+wisdom teeth removal,1,0,0,0,1,0,1,1,1,0
+wrist surgery,0,1,0,1,1,0,0,1,1,0
+wrong product administered,0,1,1,1,0,0,1,1,0,1
+wrong technique in device usage process,0,0,1,0,0,1,0,0,0,0
+wrong technique in product usage process,0,0,0,1,0,1,1,1,1,0
